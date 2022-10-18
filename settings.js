@@ -32,20 +32,20 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94719574492'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94719574492'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94719574492'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'MR NIMA OFC' // Your name ඔබේ නම 
-global.botnma = ' NIMA OFC YT BOT '// Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = 'Nima Ofc' //ownernama,ownername
-global.packname = 'MR NIMA' // Sticker package name 
-global.author = 'PLEASE SUBSCRIBE' // Sticker Autor name 
+global.owner = ['94714841631'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94714841631'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94714841631'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Chanuka' // Your name ඔබේ නම 
+global.botnma = ' PP BOT '// Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = 'Chanuka' //ownernama,ownername
+global.packname = 'pp' // Sticker package name 
+global.author = 'bot' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
-global.alive =` Hello i am alive now 
+global.alive = `Hello i am alive now
 
 THANKS FRO USING NIMA OFC YT BOT
 
@@ -62,7 +62,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© nima ofc yt bot` // Add your caption ♥ 
+global.cap = `© Rasun PP Bot` // Add your caption ♥ 
 global.mess = {
 success: ' DONE YOURWORK',
 admin: 'you must be admin to use this cmd!',
